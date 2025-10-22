@@ -69,7 +69,7 @@ The dashboard is based on **E-commerce sales data**, which includes:
 ---
 
 ## 🎥 Demo Video  
-[![E-commerce Performance Dashboard Demo](https://img.youtube.com/vi/zpAQyT0_Qys/maxresdefault.jpg)](https://youtu.be/zpAQyT0_Qys)  
+[![E-commerce Performance Dashboard Demo](https://github.com/ravikumar-3481/FUTURE_DS_01/blob/main/Dashboard%20images%2FDemo%20video%2FVID_20251022073124.mp4)](https://youtu.be/zpAQyT0_Qys)  
 *Click the image above to watch the full demo.*
 
 ---
