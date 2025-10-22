@@ -89,6 +89,6 @@ This project is created **for educational purposes** as part of my **Future Inte
 ### 📌 Author  
 **[Your Name]**  
 _Data Science Intern at Future Interns_  
-🔗 [LinkedIn Profile](#) | [GitHub Repository](#)
+🔗 [Linkedin](https://www.linkedin.com/in/ravi-vishwakarma67) | [GitHub Repository](#)
 
 ---
