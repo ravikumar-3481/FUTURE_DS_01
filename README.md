@@ -1,63 +1,94 @@
-# E-commerce Performance Dashboard
+# 🛍️ E-Commerce Performance Dashboard  
 
-![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
+## 📊 Overview  
+This is an **interactive E-commerce Performance Dashboard** built using **Power BI** during my **Future Interns Data Science Internship**.  
+The dashboard delivers **actionable insights** into sales trends, top products, and regional performance — empowering data-driven business decisions.
 
-# SALES ANALYSIS
+---
 
-![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/761744a91c26f730f64d7c32b4d6635c7564b926/images/Dashboard%20B.png)
-## Overview
-This is an **interactive E-commerce Performance Dashboard** built in **Power BI** during my Future Interns Data Science Internship. The dashboard provides actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
+## 📸 Dashboard Preview  
 
-## Key Features
-- **Sales Trends:** Track monthly and seasonal patterns.  
-- **Top Products & Categories:** Identify best-selling items.  
-- **Regional Analysis:** Highlight high-performing regions.  
-- **Interactive Visuals:** Filters and slicers for dynamic exploration.  
-- **Data Insights:** Built with clean data and DAX measures.
+### 🧭 Overview  
+![Dashboard Overview](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dahboard%20Overview.png)
 
-## Skills & Tools
-- **Tools:** Power BI Desktop  
-- **Techniques:** Data Cleaning, DAX Calculations, Data Visualization, Dashboard Storytelling  
-- **Focus Areas:** Trend Analysis, KPI Measurement, Business Intelligence
+### 💡 Sales Analysis  
+![Sales Dashboard](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/761744a91c26f730f64d7c32b4d6635c7564b926/images/Dashboard%20B.png)
 
-## Data
-The dashboard uses **E-commerce sales data**, including:
+### ✅ Final View  
+![Final Dashboard View](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dashboard%20Final%20view.png)
+
+---
+
+## 🎯 Key Features  
+- 📈 **Sales Trends:** Track monthly and seasonal performance.  
+- 🏆 **Top Products & Categories:** Identify best-selling items.  
+- 🌍 **Regional Analysis:** Discover high-performing regions.  
+- 🧩 **Interactive Visuals:** Dynamic filters and slicers.  
+- 📊 **Data Insights:** Clean data with DAX-powered calculations.  
+
+---
+
+## 🧰 Skills & Tools  
+
+**Tools Used:**  
+- Power BI Desktop  
+
+**Techniques Applied:**  
+- Data Cleaning  
+- DAX Calculations  
+- Data Visualization  
+- Dashboard Storytelling  
+
+**Focus Areas:**  
+- Trend Analysis  
+- KPI Measurement  
+- Business Intelligence  
+
+---
+
+## 📂 Dataset Information  
+The dashboard is based on **E-commerce sales data**, which includes:  
 - Product IDs and categories  
 - Monthly sales and revenue  
-- Region-wise sales  
+- Region-wise performance metrics  
 
-## How to Use
-1. Open the `.pbix` file in **Power BI Desktop**.  
+---
+
+## 🚀 How to Use  
+1. Download and open the `.pbix` file in **Power BI Desktop**.  
 2. Use filters and slicers to explore data by month, product, or region.  
-3. Hover over visuals to see detailed metrics and tooltips.  
+3. Hover over visuals to reveal detailed metrics and tooltips.  
 
-## Insights
-- **Peak sales months** for planning promotions.  
-- **Top-selling products** for inventory and marketing focus.  
-- **Regional performance** analysis to optimize logistics and sales strategy.
+---
 
-# REPORT
-## Sales Analysis
+## 💡 Insights & Learnings  
+- 📆 **Peak sales months** identified for better promotional planning.  
+- 🛒 **Top-selling products** highlighted for inventory and marketing strategy.  
+- 🌎 **Regional analysis** reveals market potential and logistics efficiency.  
 
-![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/761744a91c26f730f64d7c32b4d6635c7564b926/images/Dashboard%20B.png)
+---
 
-## Overview
-![Dashboard Overview](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dahboard%20Overview.png) 
+## 🎥 Demo Video  
+[![E-commerce Performance Dashboard Demo](https://img.youtube.com/vi/zpAQyT0_Qys/maxresdefault.jpg)](https://youtu.be/zpAQyT0_Qys)  
+*Click the image above to watch the full demo.*
 
-## Final View
-![Dashboard Final View](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dashboard%20Final%20view.png)
+---
 
-## Demo Video
-[![E-commerce Performance Dashboard Demo](https://img.youtube.com/vi/zpAQyT0_Qys/maxresdefault.jpg)](https://youtu.be/zpAQyT0_Qys)
-
-
-*Click the image to watch the dashboard demo.*
-
-## Next Steps
+## 🔮 Next Steps  
 - Add **customer segmentation analysis**.  
-- Integrate **real-time sales data** for continuous monitoring.  
-- Explore **predictive analytics** to forecast future sales trends.
+- Integrate **real-time sales data** for live monitoring.  
+- Implement **predictive analytics** for sales forecasting.  
 
-## License
-This project is for **educational purposes** and part of my Data Science internship with Future Interns.
+---
 
+## 🧾 License  
+This project is created **for educational purposes** as part of my **Future Interns Data Science Internship**.  
+
+---
+
+### 📌 Author  
+**[Your Name]**  
+_Data Science Intern at Future Interns_  
+🔗 [LinkedIn Profile](#) | [GitHub Repository](#)
+
+---
