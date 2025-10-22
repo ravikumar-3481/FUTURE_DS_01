@@ -15,7 +15,7 @@ The dashboard delivers **actionable insights** into sales trends, top products, 
 ![Sales Dashboard](https://github.com/ravikumar-3481/FUTURE_DS_01/blob/main/Dashboard%20images%2FDashboard%20B.png)
 
 ### ✅ Final View  
-![Final Dashboard View](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dashboard%20Final%20view.png)
+![Final Dashboard View](https://github.com/ravikumar-3481/FUTURE_DS_01/blob/main/Dashboard%20images%2FDashboard%20Final%20view.png)
 
 ---
 
